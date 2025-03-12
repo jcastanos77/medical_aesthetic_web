@@ -137,7 +137,7 @@ class _MyHomePageState extends State<MyHomePage> {
                           children: [
                             Padding(
                               padding: const EdgeInsets.all(16.0),
-                              child: Text("Para el año 2026 Medico Estética se proyectara con un aumento gradual y significativo de sus clientes en cuanto a convenios empresariales y alianzas estratégicas con reconocidos cirujanos estéticos y demás profesionales de la salud y belleza corporal, Un establecimiento que será reconocido a nivel Nacional como un ejemplo de organización, servicio y compromiso presentes en cada uno de los servicios que brindamos al cliente, teniendo como prioridad ofrecer un servicio profesional y mostrar resultados.",
+                              child: Text("Para el año 2026 Médica estática se proyectará para ser reconocida como una de las mejores clínicas de cirugía plástica, estética y re constructiva a nivel nacional con un aumento en cuanto a convenio empresariales y alianzas estratégicas con reconocidos cirujanos estéticos y profesionales de la salud y de la belleza, logrando esto por su alta calidad y servicio prestado a pacientes que requiere de procedimientos de cirugía plástica estética y re constructiva.",
                                 style: TextStyle(fontSize: 30, fontWeight: FontWeight.w400, color: Colors.white,), textAlign: TextAlign.center,),
                             ),
                           ],
